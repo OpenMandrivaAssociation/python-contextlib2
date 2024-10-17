@@ -6,7 +6,7 @@ Release:            1
 Summary:            Backports and enhancements for the contextlib module
 Group:              Development/Python
 License:            Python
-URL:                http://pypi.python.org/pypi/contextlib2
+URL:                https://pypi.python.org/pypi/contextlib2
 Source0:            https://pypi.python.org/packages/source/c/%{modname}/%{modname}-%{version}.tar.gz
 BuildArch:          noarch
 BuildRequires:      python2-devel
